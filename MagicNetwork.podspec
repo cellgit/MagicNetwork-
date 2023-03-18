@@ -24,8 +24,8 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/liuhongli/MagicNetwork'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'liuhongli' => 'liuhongli2120@gmail.com' }
-  s.source           = { :git => 'https://github.com/liuhongli/MagicNetwork.git', :tag => s.version.to_s }
+  s.author           = { 'cellgit' => 'liuhongli2120@gmail.com' }
+  s.source           = { :git => 'https://github.com/cellgit/MagicNetwork.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '11.0'
