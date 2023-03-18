@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MagicNetwork'
-  s.version          = '0.0.2'
+  s.version          = '0.0.5'
   s.summary          = 'MagicNetwork is a basic library of network request'
 
 # This description is used to generate tags and improve search results.
