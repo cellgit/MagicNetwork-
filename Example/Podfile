@@ -1,4 +1,4 @@
-source 'https://github.com/CocoaPods/Specs.git'
+#source 'https://github.com/CocoaPods/Specs.git'
 
 use_frameworks!
 
@@ -7,11 +7,11 @@ platform :ios, '11.0'
 target 'MagicNetwork_Example' do
   pod 'MagicNetwork', :path => '../'
   
-  pod 'Moya/RxSwift'
-  pod 'Result', '~> 5.0'
+  #pod 'Moya/RxSwift'
+  #pod 'Result', '~> 5.0'
   #用于demo解析数据
-  pod 'KakaJSON'
-  pod 'ObjectMapper'
+  #pod 'KakaJSON'
+  #pod 'ObjectMapper'
 
   target 'MagicNetwork_Tests' do
     inherit! :search_paths
